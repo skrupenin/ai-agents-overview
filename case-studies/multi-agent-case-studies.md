@@ -664,7 +664,7 @@ Agents bid for resources
 ---
 
 ## Next Steps
-- Compare with single-agent systems in [`../single-agent/`](../single-agent/)
-- Understand DL vs LLM agents in [`../../comparative-analysis/dl-vs-llm-agents.md`](../../comparative-analysis/dl-vs-llm-agents.md)
-- Explore implementation patterns in [`../../implementation-patterns/`](../../implementation-patterns/)
-- See industry-specific examples in [`../../industry-examples/`](../../industry-examples/)
+- Compare with single-agent systems in [`../single-agent/`](./single-agent)
+- Understand DL vs LLM agents in [`../../comparative-analysis/dl-vs-llm-agents.md`](../comparative-analysis/dl-vs-llm-agents.md)
+- Explore implementation patterns in [`../../implementation-patterns/`](../implementation-patterns)
+- See industry-specific examples in [`../../industry-examples/`](../industry-examples)

@@ -450,6 +450,6 @@ Radiologist reviews and confirms
 ---
 
 ## Next Steps
-- Explore multi-agent systems in [`../multi-agent/`](../multi-agent/)
-- See industry-specific examples in [`../../industry-examples/`](../../industry-examples/)
-- Review implementation patterns in [`../../implementation-patterns/`](../../implementation-patterns/)
+- Explore multi-agent systems in [`../multi-agent/`](./multi-agent)
+- See industry-specific examples in [`../../industry-examples/`](../industry-examples)
+- Review implementation patterns in [`../../implementation-patterns/`](../implementation-patterns)
